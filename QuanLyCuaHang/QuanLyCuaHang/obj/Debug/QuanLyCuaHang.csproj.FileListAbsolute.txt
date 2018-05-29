@@ -1,0 +1,16 @@
+C:\Users\nmphu\OneDrive\Learning\Subjects\OOP\Projects\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\nmphu\OneDrive\Learning\Subjects\OOP\Projects\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\nmphu\OneDrive\Learning\Subjects\OOP\Projects\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\nmphu\OneDrive\Learning\Subjects\OOP\Projects\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\nmphu\OneDrive\Learning\Subjects\OOP\Projects\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\CIA\Desktop\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\CIA\Desktop\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\CIA\Desktop\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\CIA\Desktop\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\CIA\Desktop\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+E:\OOP\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+E:\OOP\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+E:\OOP\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+E:\OOP\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+E:\OOP\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+E:\OOP\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
